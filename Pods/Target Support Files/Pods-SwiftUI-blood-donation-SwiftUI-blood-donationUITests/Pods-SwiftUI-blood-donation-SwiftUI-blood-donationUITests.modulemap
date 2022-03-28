@@ -1,0 +1,6 @@
+framework module Pods_SwiftUI_blood_donation_SwiftUI_blood_donationUITests {
+  umbrella header "Pods-SwiftUI-blood-donation-SwiftUI-blood-donationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
